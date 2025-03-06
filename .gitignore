@@ -113,3 +113,5 @@ paper/*.pdf
 *.dvi
 
 scraped_data*
+
+content/
